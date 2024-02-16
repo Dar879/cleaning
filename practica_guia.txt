@@ -1,0 +1,26 @@
+
+--------------------------EL PROCEDIMINETO A SEGUIR ES -----------------------------
+
+
+
+#importar librerias
+#leer archivo csv
+#ver datos
+#ver variables categoricas y numericas 
+#datos faltantes 
+#conteo en los niveles de las diferentes columnas categoricas y numericas
+#filas repetidas
+
+#generar graficas individuales pues las variables numericas
+#estan en rangos diferentes
+#eliminar filas con 'age'>100
+#eliminar filas con 'diration'<0
+#eliminar filas con 'previous'>100
+#graficar los subniveles de cada variables categorica 
+#representar en minusculas solo si la columna es categorica
+#y generamos las graficas nuevamente
+#job: unificar admin. y administrative
+#marital: unificar div, y divorced 
+#educacion: unificar sec. y secondaty, unk y unknown
+#contact: unificar telephone y phone
+#poutcome: unificar unk y unknown
