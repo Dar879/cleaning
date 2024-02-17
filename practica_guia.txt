@@ -20,7 +20,7 @@
 #representar en minusculas solo si la columna es categorica
 #y generamos las graficas nuevamente
 #job: unificar admin. y administrative
-#marital: unificar div, y divorced 
-#educacion: unificar sec. y secondaty, unk y unknown
-#contact: unificar telephone y phone
+#marital: unificar div, y divorced.
+#educacion: unificar sec. y secondary, unk y unknown
+#contact: unificar telephone y phone , mobile, cellular
 #poutcome: unificar unk y unknown
